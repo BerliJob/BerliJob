@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Penggajian Script
+
+This repository includes a simple payroll (`penggajian`) calculator written in Python. Use it to compute net salary from a base salary, allowances, and deductions.
+
+### Usage
+
+```bash
+python penggajian.py BASE_SALARY ALLOWANCES DEDUCTIONS
+```
+
+Example:
+
+```bash
+python penggajian.py 5000 500 250
+```
